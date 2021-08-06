@@ -1,0 +1,45 @@
+
+body {
+    font-family: sans-serif;
+}
+.link-nav{
+    color: blue;
+}
+p {
+    color: lightblue;
+}
+h1 {
+    background-image: linear-gradient(yellow,white);
+    text-align: center;
+}
+li:hover {
+    color: white;
+    font-size: 20px;
+    transform: translateX(50px);
+    transition: 1s linear;
+    
+}
+.link-header {    
+text-decoration: none;
+padding: 5px;
+background-image: linear-gradient(white,azure);
+}
+body {
+    background-image: linear-gradient(white,blue)
+}
+.kar {
+    border: 5px solid green;
+}
+.link-text:hover {
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+p{
+    color:white;
+}
+
+
+
+
