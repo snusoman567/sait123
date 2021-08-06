@@ -1,0 +1,28 @@
+
+body {
+    font-family: sans-serif;
+}
+.link-nav {
+    color: blue;
+}
+p {
+    color: lightblue;
+}
+h1 {
+    color: blue;
+}
+li {
+    color: blue;
+    font-size: 30px;
+}
+.link-header {
+    border: 5px solid cadetblue;
+    background-color: lightblue;
+    text-decoration: none;
+}
+body {
+    background-color: lightblue;
+}
+.kar {
+    border: 5px solid green;
+}
