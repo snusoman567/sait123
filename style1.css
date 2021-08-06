@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white,blue);
+}
+.link-nav {
+    color: blue;
+}
+p {
+    color: lightblue;
+}
+h1 {
+    color: blue;
+}
